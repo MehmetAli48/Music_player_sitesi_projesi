@@ -10,6 +10,7 @@ Kullanıcılar şarkıları oynatabilir, durdurabilir, ileri/geri sarabilir ve m
 
 ---------------------------------------------------------------------------------------------------------------------
 
+
 🎵 Music Player Web Application
 
 A modern and responsive music player built using pure HTML, CSS, and JavaScript.
